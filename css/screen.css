@@ -141,4 +141,5 @@ nav > ul > li {float: left;}
 
 .contact a {
 	color: red;
+	display: block;
 }
