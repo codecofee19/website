@@ -133,3 +133,12 @@ nav > ul > li {float: left;}
 .main p {
 	position: relative; top: 100px;
 }
+
+.contact {
+	position: relative; width: 100%; top: 190px; left: 2%;
+	color: white;
+}
+
+.contact a {
+	color: red;
+}
