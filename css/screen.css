@@ -120,3 +120,16 @@ nav > ul > li {float: left;}
 	margin: 0 15px 15px 0;
 }
 
+
+.main {
+	position: relative; width: 100%; top: 70px; left: 2%;
+}
+
+.main h1 {
+	position: relative; top: 98px;
+	color: white;
+}
+
+.main p {
+	position: relative; top: 100px;
+}
