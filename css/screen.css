@@ -103,7 +103,7 @@ nav > ul > li {float: left;}
 
 
 .project-item h2 {
-	position: relative; left: 46%; top: 60px;
+	position: relative; left: 51%; top: 60px;
 	
 }
 
@@ -114,8 +114,8 @@ nav > ul > li {float: left;}
 
 
 .project-item img {
-	width:608px;
-	height:342px;
+	width:550px;
+	height:309px;
     float: left;
 	margin: 0 15px 15px 0;
 }
